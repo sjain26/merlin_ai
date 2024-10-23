@@ -140,7 +140,7 @@ See `requirements.txt` for a full list of dependencies. Key packages include:
 
 1. Install development dependencies:
 ```bash
-pip install -r requirements-dev.txt  # If you have separate dev requirements
+pip install -r requirements.txt  # If you have separate dev requirements
 ```
 
 2. Run tests:
